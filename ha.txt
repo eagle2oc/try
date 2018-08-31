@@ -1,10 +1,2 @@
-second time i try?
-<<<<<<< HEAD
-<<<<<<< HEAD
- i hope so.
-=======
- i do 
->>>>>>> 119cd8c1cedc098a44590c9862d49c4c0acc351d
-=======
- i do 
->>>>>>> 119cd8c1cedc098a44590c9862d49c4c0acc351d
+second time i try¡H
+It is happy to see i'm learing something new.
